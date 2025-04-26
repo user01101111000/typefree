@@ -34,9 +34,7 @@ const JSONEditor: () => React.JSX.Element = (): React.JSX.Element => {
             window.localStorage.setItem("code", value || '');
         }
     };
-
-    console.log(parameters);
-
+    
     return <div
         className="w-full h-full overflow-hidden grid grid-rows-[auto_1fr] bg-[#1e1e1e] gap-3 border-r-2 border-r-[rgba(255,255,255,0.05)]">
         <div

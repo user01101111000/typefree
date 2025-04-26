@@ -12,7 +12,7 @@ const Header: () => React.JSX.Element = (): React.JSX.Element => {
         <div className="flex items-center justify-between pl-10 pr-6 py-3">
 
             <Link href="/" className="flex items-center gap-3">
-                <Image src={typefree_logo} width={24} alt={"icon"} />
+                <Image src={typefree_logo} width={24} alt={"icon"} title="Type Free" loading="eager"/>
                 <p className="font-extrabold">Type Free</p>
             </Link>
 

@@ -1,7 +1,6 @@
 export const siteMetadata = {
-    title: "Type Free - JSON to TypeScript Interface Generator - Free and UI Friendly",
+    title: "Type Free - JSON to TypeScript Interface Generator",
     author: 'user01101111000',
-    keywords: ["typefree", "typeFree", "Type Free", "type free"],
     headerTitle: 'Type Free',
     description: "This website is a tool to convert JSON data to TypeScript interface. User friendly and beautiful interface.",
     language: 'en-us',
