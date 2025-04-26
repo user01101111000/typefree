@@ -51,6 +51,7 @@ const RootLayout: React.FC<{ children: React.ReactNode }> = ({ children }: { chi
         <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
         <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
 
+        <meta name="google-site-verification" content="F1F65UBOLfzHz6q5Tbtdf4-rJpNBrebbqE9IxW5KwQo" />
       </head>
       <body
         className={`${geistSans.variable} antialiased`}
