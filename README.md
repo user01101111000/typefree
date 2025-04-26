@@ -4,13 +4,15 @@
   <img alt="typefree logo" src="public/logos/favicon.svg" width="20%" />
 </a>
 
-<br>
+<br/>
+<br/>
 
 <a href="https://typefree.vercel.app">
   <img alt="typefree site" src="public/images/typefree_text.png" width="30%" />
 </a>
 
-<br>
+<br/>
+<br/>
 
 [![GitHub stars](https://img.shields.io/github/stars/user01101111000/typefree?style=social)](https://github.com/user01101111000/typefree)
 &nbsp;&nbsp;
